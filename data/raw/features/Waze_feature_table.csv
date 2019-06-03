@@ -1,0 +1,12 @@
+Name,Description,Classification
+usual_road_type,Median road type,1
+bool_highway,Indicator of highway,
+bool_primary,Indicator of primary roads,
+bool_ramps,Indicator of ramps,
+bool_secondary,Indicator of secondary roads,
+count_highway,Number of jams in highways in the period,
+count_streets,Number of jams in streets in the period,
+count_primary,Number of jams in primary roads in the period,
+count_secondary,Number of jams in secondary roads in the period,
+count_primary_street,Number of jams in primary streets in the period,
+count_primary_ramps,Number of jams in primary ramps in the period,

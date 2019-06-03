@@ -1,0 +1,17 @@
+Name,Description,Classification
+general_counta,Number of elements,General
+node_counta,Number of nodes,General
+info_counta,Number of info tags,General
+highway_counta,Number of highway tags,Road Type
+natural_counta,Number of natural tags,Urban x Rural
+place_counta,Number of place tags,Urban x Rural
+parking_counta,Number of parking tags,Urban x Rural
+addr_street_counta,Number of addr:street tags,Urban x Rural
+addr_housenumber_counta,Number of addr:housenumber tags,Urban x Rural
+amenity_counta,Number of amenity tags ,POI
+school_counta,Number of school tags,POI
+restaurant_counta,Number of restaurant tags,POI
+place_of_worship_counta,Number of place_of_worship tags,POI
+shop_counta,Number of shop tags,POI
+name_counta,Number os name tags,POI
+crossing_counta,Number of crossing tags,POI
